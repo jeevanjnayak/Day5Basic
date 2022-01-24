@@ -2,7 +2,7 @@ package com.Bridgelabz;
 
 import java.util.Scanner;
 
-public class CondMonthWage {
+public class VowelCons {
 
     public static void main(String[] args) {
 
