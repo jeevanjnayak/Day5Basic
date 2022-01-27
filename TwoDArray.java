@@ -1,10 +1,9 @@
 package com.Bridgelabz;
 
-import java.io.Writer;
 import java.util.Scanner;
 import java.io.PrintWriter;
 
-public class employeepresnt {
+public class TwoDArray {
 
     public static void main(String[] args) {
         System.out.println("Enter Matrix size (row/colomn):  ");
